@@ -7,7 +7,7 @@ from tkinter import *
 #root window
 root = tk.Tk()
 root.wm_iconbitmap('icon.ico')
-root.geometry("300x330")
+root.geometry("300x300")
 root.resizable(False, False)
 root.title("Conversion Calculator™")
 root.config(bg = 'gray15')
